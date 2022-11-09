@@ -1,5 +1,8 @@
 <script>
-
+// chiedere a Fabio di sta roba
+/* export default {
+    name: "AppHero"
+} */
 </script>
 
 <template>
