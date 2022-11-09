@@ -1,3 +1,9 @@
+<script>
+export default {
+
+}
+</script>
+
 <template>
     <div class="my_jumbo">
         <p>Am I a jumbotron ?</p>
